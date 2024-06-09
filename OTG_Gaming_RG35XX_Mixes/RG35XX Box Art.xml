@@ -1,0 +1,9 @@
+<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Information ShortName="RG35XX Boxart Image" LongName="RG35XX Boxart Image" Description="2DBox" Author="Author" />
+  <Viewport Color="#00FFFFFF" Width="640" Height="480" />
+  <Drawings>
+    <Item Type="Box2DFront">
+      <Display X="23%" Y="50%" Antialiasing="None" Width="43%" Height="65%" Anchor="VCenterHCenter" />
+    </Item>
+   </Drawings>
+</ImageComposition>
